@@ -1,0 +1,9 @@
+name: playground_mjpeg_stream_acquire
+channels:
+  - conda-forge
+  - pyviz
+  - defaults
+dependencies:
+  - python=3.8
+  - aiohttp
+prefix: C:\Users\wuyua\anaconda3\envs\playground_mjpeg_stream_acquire
